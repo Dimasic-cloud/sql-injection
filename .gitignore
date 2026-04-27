@@ -1,3 +1,8 @@
 # environment
 .env
 venv/
+
+# download files
+sqli.csv
+sqliv2.csv
+SQLiV3.csv
